@@ -24,7 +24,7 @@ nconf.argv()
 nconf.env()
 
 nconf.defaults
-  port: 1127
+  port: 8080
   baseUrl: '/'
   database:
     host: 'localhost'
